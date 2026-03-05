@@ -63,7 +63,7 @@ Consumer sentiment and unemployment rates were drawn from a dataset compiled by 
 
 ---
 
-#### Conclusion and Next Steps {#conclusion-and-next-steps}
+#### Conclusion and Next Steps 
 
 Analysis of non-IT H-1B transfer approvals –  derived by isolating industries outside of 'Professional, Scientific, and Technical Services' from the USCIS Employer Data Hub (2021-2025) –  reveals that non-IT industries trend in the same direction as the IT-adjacent sector, differing only in the rate of change. This suggests that inter-firm mobility among H-1B workers is not an IT-exclusive phenomenon, but rather a broader characteristic of the H-1B program across industries.
 
